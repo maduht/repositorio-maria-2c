@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Educação para o Campo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f3ee;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #5c8a57;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #4d704d;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #2f4f2f;
+    }
+    footer {
+      background-color: #5c8a57;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Educação para o Campo</h1>
+    <p>Valorizando saberes, fortalecendo comunidades</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#objetivos">Objetivos</a>
+    <a href="#desafios">Desafios</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre a Educação do Campo</h2>
+    <p>A educação para o campo é um direito fundamental que busca garantir o acesso à escola com qualidade social às populações rurais, respeitando seus modos de vida, culturas, saberes e necessidades específicas.</p>
+  </section>
+
+  <section id="objetivos">
+    <h2>Objetivos da Educação do Campo</h2>
+    <ul>
+      <li>Garantir o acesso à educação de qualidade no meio rural.</li>
+      <li>Valorizar a cultura e os saberes das comunidades camponesas.</li>
+      <li>Formar cidadãos críticos, conscientes e preparados para o desenvolvimento sustentável do campo.</li>
+      <li>Promover a permanência dos jovens e adultos no meio rural com dignidade.</li>
+    </ul>
+  </section>
+
+  <section id="desafios">
+    <h2>Desafios</h2>
+    <p>Entre os principais desafios estão:</p>
+    <ol>
+      <li>Distância e dificuldade de acesso às escolas.</li>
+      <li>Falta de infraestrutura e recursos didáticos.</li>
+      <li>Formação adequada de professores para a realidade rural.</li>
+      <li>Preconceito e desvalorização do saber popular.</li>
+    </ol>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Quer saber mais ou colaborar com projetos de educação rural? Escreva para:</p>
+    <p><strong>Email:</strong> educacaocampo@exemplo.org</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Educação para o Campo. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
